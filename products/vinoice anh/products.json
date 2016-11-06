@@ -1,0 +1,208 @@
+{
+	"_comment": "Product infomation for vinoice",
+	"products": [
+		{
+			"name": "IMG_0329",
+			"img": "products/vinoice anh/IMG_0329.JPG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "IMG_0340",
+			"img": "products/vinoice anh/IMG_0340.JPG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "IMG_0340",
+			"img": "products/vinoice anh/IMG_0340.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk010a",
+			"img": "products/vinoice anh/tk010a.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk010b",
+			"img": "products/vinoice anh/tk010b.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk010c",
+			"img": "products/vinoice anh/tk010c.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk010d",
+			"img": "products/vinoice anh/tk010d.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk010e",
+			"img": "products/vinoice anh/tk010e.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk07",
+			"img": "products/vinoice anh/tk07.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk11a",
+			"img": "products/vinoice anh/tk11a.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk11b",
+			"img": "products/vinoice anh/tk11b.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk11c",
+			"img": "products/vinoice anh/tk11c.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk11d",
+			"img": "products/vinoice anh/tk11d.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk11e",
+			"img": "products/vinoice anh/tk11e.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk11f",
+			"img": "products/vinoice anh/tk11f.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk11g",
+			"img": "products/vinoice anh/tk11g.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk11h",
+			"img": "products/vinoice anh/tk11h.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk11j",
+			"img": "products/vinoice anh/tk11j.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk11k",
+			"img": "products/vinoice anh/tk11k.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk11l",
+			"img": "products/vinoice anh/tk11l.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk11m",
+			"img": "products/vinoice anh/tk11m.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk11n",
+			"img": "products/vinoice anh/tk11n.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk11o",
+			"img": "products/vinoice anh/tk11o.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "vinoice 2",
+			"img": "products/vinoice anh/vinoice 2.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "vinoice 2a",
+			"img": "products/vinoice anh/vinoice 2a.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "vinoice1 c",
+			"img": "products/vinoice anh/vinoice1 c.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "vinoice1",
+			"img": "products/vinoice anh/vinoice1.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "vinoice1a",
+			"img": "products/vinoice anh/vinoice1a.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "vinoice1b",
+			"img": "products/vinoice anh/vinoice1b.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		}
+	]
+}

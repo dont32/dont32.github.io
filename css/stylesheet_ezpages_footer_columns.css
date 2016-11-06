@@ -1,0 +1,45 @@
+#navSupp {}
+
+.ezpagesFooterCol {
+	float: left; 
+	padding: 0;
+}
+.ezpagesFooterCol h4 {
+	color: #996633; 
+	text-align: center;
+}
+.ezpagesFooterCol ul {
+	float: left; 
+	margin: 0; 
+	padding: 0!important;
+}
+#navSupp .ezpagesFooterCol li {
+	display: block; 
+	text-align: left;
+	margin:0 20px 0 0;
+}
+#navSupp .ezpagesFooterCol a { 
+	color: #fff;
+	font:400 14px/18px Arial, Helvetica, sans-serif; 
+	font-weight: normal; 
+	text-decoration:none;
+}
+#navSupp .ezpagesFooterCol a:hover,
+#navSupp a.activeEZPage, 
+#navSupp a.activeILPage {
+	color: #777;
+}
+.ezpagesFooterCol a:hover {
+	text-decoration: underline; 
+	color: #00aa44;
+}
+#navSupp .col1 ul {
+	border: none;
+}
+.ezpagesFooterColComment { 
+	color: #aabbcc; 
+	display: block;
+}
+.ezpagesFooterCol{
+	width:auto!important;
+}

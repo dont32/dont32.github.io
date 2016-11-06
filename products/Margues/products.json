@@ -1,0 +1,341 @@
+{
+	"_comment": "Product infomation for Margues",
+	"products": [
+		{
+			"name": "AAA",
+			"img": "products/Margues/AAA.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK-1",
+			"img": "products/Margues/TK-1.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK01",
+			"img": "products/Margues/TK01.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK01A",
+			"img": "products/Margues/TK01A.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK01B",
+			"img": "products/Margues/TK01B.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK01C",
+			"img": "products/Margues/TK01C.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK01D",
+			"img": "products/Margues/TK01D.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK01F",
+			"img": "products/Margues/TK01F.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK01G",
+			"img": "products/Margues/TK01G.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK01gg",
+			"img": "products/Margues/TK01gg.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK01H",
+			"img": "products/Margues/TK01H.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK01J",
+			"img": "products/Margues/TK01J.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK01Jdd",
+			"img": "products/Margues/TK01Jdd.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK01K",
+			"img": "products/Margues/TK01K.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK01L",
+			"img": "products/Margues/TK01L.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK01Laaaaaa",
+			"img": "products/Margues/TK01Laaaaaa.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK01M",
+			"img": "products/Margues/TK01M.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK01N",
+			"img": "products/Margues/TK01N.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK01Naaaaaa",
+			"img": "products/Margues/TK01Naaaaaa.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK01Naa",
+			"img": "products/Margues/TK01Naa.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK01V",
+			"img": "products/Margues/TK01V.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK01Vvvvvv",
+			"img": "products/Margues/TK01Vvvvvv.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK01X",
+			"img": "products/Margues/TK01X.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk02",
+			"img": "products/Margues/tk02.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk02a",
+			"img": "products/Margues/tk02a.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK02B",
+			"img": "products/Margues/TK02B.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK02C",
+			"img": "products/Margues/TK02C.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK02D",
+			"img": "products/Margues/TK02D.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK02F",
+			"img": "products/Margues/TK02F.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK02M",
+			"img": "products/Margues/TK02M.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK03A",
+			"img": "products/Margues/TK03A.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK03B",
+			"img": "products/Margues/TK03B.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK03C",
+			"img": "products/Margues/TK03C.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK03D",
+			"img": "products/Margues/TK03D.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK03F",
+			"img": "products/Margues/TK03F.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK03G",
+			"img": "products/Margues/TK03G.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK03H",
+			"img": "products/Margues/TK03H.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK03L",
+			"img": "products/Margues/TK03L.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK04A",
+			"img": "products/Margues/TK04A.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK04B",
+			"img": "products/Margues/TK04B.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK04C",
+			"img": "products/Margues/TK04C.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK04D",
+			"img": "products/Margues/TK04D.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK04F",
+			"img": "products/Margues/TK04F.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK04F.PNGK",
+			"img": "products/Margues/TK04F.PNGK.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK04G",
+			"img": "products/Margues/TK04G.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK04N",
+			"img": "products/Margues/TK04N.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "Untitled-1",
+			"img": "products/Margues/Untitled-1.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "Untitled-2ada",
+			"img": "products/Margues/Untitled-2ada.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		}
+	]
+}

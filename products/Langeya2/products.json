@@ -1,0 +1,89 @@
+{
+	"_comment": "Product infomation for Langeya2",
+	"products": [
+		{
+			"name": "langeya",
+			"img": "products/Langeya2/langeya.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "langeya2",
+			"img": "products/Langeya2/langeya2.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "LangeyaA",
+			"img": "products/Langeya2/LangeyaA.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "langeyaâ",
+			"img": "products/Langeya2/langeyaâ.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "langeyaaaaaa",
+			"img": "products/Langeya2/langeyaaaaaa.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "langeyaB",
+			"img": "products/Langeya2/langeyaB.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "langeyaC",
+			"img": "products/Langeya2/langeyaC.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "langeyaD",
+			"img": "products/Langeya2/langeyaD.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "langeyae",
+			"img": "products/Langeya2/langeyae.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "langeyaF",
+			"img": "products/Langeya2/langeyaF.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "langeyag",
+			"img": "products/Langeya2/langeyag.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "POSTER",
+			"img": "products/Langeya2/POSTER.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		}
+	]
+}

@@ -1,0 +1,75 @@
+{
+	"_comment": "Product infomation for the horse",
+	"products": [
+		{
+			"name": "the horse 1",
+			"img": "products/the horse/the horse 1.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "the horse 1a",
+			"img": "products/the horse/the horse 1a.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "the horse 1b",
+			"img": "products/the horse/the horse 1b.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "the horse 1c",
+			"img": "products/the horse/the horse 1c.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "the horse 1e",
+			"img": "products/the horse/the horse 1e.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk010b",
+			"img": "products/the horse/tk010b.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk010c",
+			"img": "products/the horse/tk010c.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk010d",
+			"img": "products/the horse/tk010d.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk010e",
+			"img": "products/the horse/tk010e.PNG",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "Untitled-1",
+			"img": "products/the horse/Untitled-1.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		}
+	]
+}

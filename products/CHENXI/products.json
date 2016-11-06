@@ -1,0 +1,75 @@
+{
+	"_comment": "Product infomation for CHENXI",
+	"products": [
+		{
+			"name": "TK07A",
+			"img": "products/CHENXI/TK07A.PNG",
+			"description": "Sample description",
+			"price": "$300",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK07B",
+			"img": "products/CHENXI/TK07B.PNG",
+			"description": "Sample description",
+			"price": "$100",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK07C",
+			"img": "products/CHENXI/TK07C.PNG",
+			"description": "Sample description",
+			"price": "$100",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK07D",
+			"img": "products/CHENXI/TK07D.PNG",
+			"description": "Sample description",
+			"price": "$100",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK07F",
+			"img": "products/CHENXI/TK07F.PNG",
+			"description": "Sample description",
+			"price": "$100",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK07G",
+			"img": "products/CHENXI/TK07G.PNG",
+			"description": "Sample description",
+			"price": "$100",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk07ggg",
+			"img": "products/CHENXI/tk07ggg.PNG",
+			"description": "Sample description",
+			"price": "$100",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK07H",
+			"img": "products/CHENXI/TK07H.PNG",
+			"description": "Sample description",
+			"price": "$100",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "TK07J",
+			"img": "products/CHENXI/TK07J.PNG",
+			"description": "Sample description",
+			"price": "$100",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "Untitled-1111",
+			"img": "products/CHENXI/Untitled-1111.png",
+			"description": "Sample description",
+			"price": "$100",
+			"specialPrice": "$200"
+		}
+	]
+}

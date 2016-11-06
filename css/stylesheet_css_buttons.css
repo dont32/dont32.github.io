@@ -1,0 +1,101 @@
+/**
+ * CSS Buttons Stylesheet
+ *
+ * Thanks to paulm for much of the content of the CSS buttons code
+ *
+ * @package templateSystem
+ * @copyright Copyright 2003-2005 Zen Cart Development Team
+ * @copyright Portions Copyright 2003 osCommerce
+ * @license http://www.zen-cart.com/license/2_0.txt GNU Public License V2.0
+ * @version $Id: stylesheet_css_buttons.css 2765 2006-01-01 21:15:45Z birdbrain $
+ */
+
+/* css buttons */
+.cssButton, .cssButtonHover {
+	font:bold 13px/53px 'Lato', Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	color:#fff;
+	text-decoration:none!important;
+	background:#3fbdf7;
+	display:inline-block;
+	padding:0 18px;
+	cursor:pointer!important;
+	margin:0 3px 3px 0;
+	-moz-transition: all 0.4s ease 0s;
+	-webkit-transition: all 0.4s ease 0s;
+	transition: all 0.4s ease 0s;
+}
+a span{
+	width:auto!important;
+}
+.cssButton:hover,
+.cssButtonHover {
+	font:bold 13px/53px 'Lato', Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	color:#fff;
+	text-decoration:none!important;
+	background:#fb7cb1;
+	display:inline-block;
+	padding:0 18px;
+	cursor:pointer!important;
+	margin:0 3px 3px 0;
+}
+.navNextPrevWrapper a,
+.btn1 a{
+	text-decoration:none;
+}
+/* adding the styles below might be needed if the default button width is changed */
+/* .button_continue_shopping, .button_shipping_estimator {width: 150px;} */
+.small_delete, .button_prev, .button_next, .button_search  {}
+.button_sold_out_sm, .button_sold_out, .button_update_cart, .button_checkout, .button_login {}
+.button_return_to_product_list, .button_add_selected {}
+.button_in_cart{}  
+.button_submit {}
+.button_update_cart {}
+.button_update_cartHover {}
+
+.button_add_to_cart {
+	background: #fb7cb1;
+	width: 53px!important;
+	height: 53px;
+	padding: 0!important;
+	position: relative;
+	overflow: hidden;
+	text-indent: -100px;
+}
+.button_add_to_cart:after {
+	content: "\f07a";
+	font-family: "fontAwesome";
+	position: absolute;
+	right: -53px;
+	color: #fff;
+	font-size: 40px;
+	line-height: 51px;
+	display: inline-block;
+}
+.button_add_to_cart:hover {background-color: #3fbdf7;}
+/*.innerbox#headernavcenter .boxtext .button_search {display:inline;}*/
+
+/*---search-button---*/
+#head-search .cssButton.search,
+#search input.search_btn{
+	width:23px!important;
+	height:23px!important;
+	border:none;
+	background:url(../images/search.gif) no-repeat 0 0;
+	font-size:0;
+	cursor:pointer;
+	float:left;
+	margin:9px 0 0 -23px;
+}
+#head-search .cssButtonHover.search,
+#search input.search_btn:hover{
+	width:23px!important;
+	height:23px!important;
+	border:none;
+	background:url(../images/search.gif) no-repeat 0 -24px;
+	font-size:0;
+	cursor:pointer;
+	float:left;
+	margin:9px 0 0 -23px;
+}

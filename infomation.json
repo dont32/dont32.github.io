@@ -1,0 +1,37 @@
+{
+	"phone": "0123 456 789",
+	"categories": [
+		{
+			"name": "CHENXI",
+			"url": "/products/CHENXI/products.json"
+		},
+		{
+			"name": "ISIDORE",
+			"url": "/products/ISIDORE/products.json"
+		},
+		{
+			"name": "langeya2",
+			"url": "/products/Langeya2/products.json"
+		},
+		{
+			"name": "Langgeya",
+			"url": "/products/Langgeya/products.json"
+		},
+		{
+			"name": "Margues",
+			"url": "/products/Margues/products.json"
+		},
+		{
+			"name": "Men",
+			"url": "/products/Men/products.json"
+		},
+		{
+			"name": "the horse",
+			"url": "/products/the horse/products.json"
+		},
+		{
+			"name": "vinoice ảnh",
+			"url": "/products/vinoice anh/products.json"
+		}
+	]
+}

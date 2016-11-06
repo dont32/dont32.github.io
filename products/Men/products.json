@@ -1,0 +1,68 @@
+{
+	"_comment": "Product infomation for Margues",
+	"products": [
+		{
+			"name": "V3287",
+			"img": "products/Men/V3287.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "V3287_1",
+			"img": "products/Men/V3287_1.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "V632222",
+			"img": "products/Men/V632222.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "V633277",
+			"img": "products/Men/V633277.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "V633277_1",
+			"img": "products/Men/V633277_1.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "V8350",
+			"img": "products/Men/V8350.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "V8350_1",
+			"img": "products/Men/V8350_1.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "V8370",
+			"img": "products/Men/V8370.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "V8370_1",
+			"img": "products/Men/V8370_1.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		}
+	]
+}

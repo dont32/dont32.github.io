@@ -1,0 +1,97 @@
+{
+	"_comment": "Product infomation for Langgeya",
+	"products": [
+		{
+			"name": "LangeyaA",
+			"img": "products/Langgeya/LangeyaA.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "Langeyab",
+			"img": "products/Langgeya/Langeyab.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "langeyac",
+			"img": "products/Langgeya/langeyac.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "Langeyad",
+			"img": "products/Langgeya/Langeyad.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "langeyae",
+			"img": "products/Langgeya/langeyae.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "langeyag",
+			"img": "products/Langgeya/langeyag.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "Langeyah",
+			"img": "products/Langgeya/Langeyah.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "langeyal",
+			"img": "products/Langgeya/langeyal.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "Langeyam",
+			"img": "products/Langgeya/Langeyam.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "langgeya1a",
+			"img": "products/Langgeya/langgeya1a.gif",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "langgeya1b",
+			"img": "products/Langgeya/langgeya1b.gif",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "langgeya1c",
+			"img": "products/Langgeya/langgeya1c.gif",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "POSTER",
+			"img": "products/Langgeya/POSTER.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		}
+		
+	]
+}

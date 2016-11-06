@@ -1,0 +1,138 @@
+{
+	"_comment": "Product infomation for ISIDORE",
+	"products": [
+		{
+			"name": "7",
+			"img": "products/ISIDORE/7.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "insidore 6",
+			"img": "products/ISIDORE/insidore 6.jpg",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "isidore1",
+			"img": "products/ISIDORE/isidore1.jpg",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "ISIDORE2",
+			"img": "products/ISIDORE/ISIDORE2.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "isidore3",
+			"img": "products/ISIDORE/isidore3.jpg",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "isidore4",
+			"img": "products/ISIDORE/isidore4.jpg",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "isidore5",
+			"img": "products/ISIDORE/isidore5.jpg",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "POSTER",
+			"img": "products/ISIDORE/POSTER.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk11a",
+			"img": "products/ISIDORE/tk11a.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk11b",
+			"img": "products/ISIDORE/tk11b.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk11c",
+			"img": "products/ISIDORE/tk11c.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk11d",
+			"img": "products/ISIDORE/tk11d.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk11e",
+			"img": "products/ISIDORE/tk11e.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk11f",
+			"img": "products/ISIDORE/tk11f.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk11g",
+			"img": "products/ISIDORE/tk11g.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk11h",
+			"img": "products/ISIDORE/tk11h.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk11j",
+			"img": "products/ISIDORE/tk11j.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk11k",
+			"img": "products/ISIDORE/tk11k.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		},
+		{
+			"name": "tk11l",
+			"img": "products/ISIDORE/tk11l.png",
+			"description": "Sample description",
+			"price": "$1000",
+			"specialPrice": "$200"
+		}
+	]
+}
